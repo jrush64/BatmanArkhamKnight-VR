@@ -1,0 +1,19 @@
+# Build intermediates
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+builds/obj/
+
+# Runtime output
+logs/
+*.log
+
+# Editor/OS files
+*.user
+*.suo
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
